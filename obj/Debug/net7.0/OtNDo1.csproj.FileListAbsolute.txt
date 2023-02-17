@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/bin/Debug/net7.0/OtNDo1
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/bin/Debug/net7.0/OtNDo1.deps.json
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/bin/Debug/net7.0/OtNDo1.runtimeconfig.json
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/bin/Debug/net7.0/OtNDo1.dll
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/bin/Debug/net7.0/OtNDo1.pdb
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/obj/Debug/net7.0/OtNDo1.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/obj/Debug/net7.0/OtNDo1.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/obj/Debug/net7.0/OtNDo1.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/obj/Debug/net7.0/OtNDo1.AssemblyInfo.cs
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/obj/Debug/net7.0/OtNDo1.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/obj/Debug/net7.0/OtNDo1.dll
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/obj/Debug/net7.0/refint/OtNDo1.dll
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/obj/Debug/net7.0/OtNDo1.pdb
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/obj/Debug/net7.0/OtNDo1.genruntimeconfig.cache
+/home/sneg/Documents/C#/Rekyrsia/OtNDo1/obj/Debug/net7.0/ref/OtNDo1.dll
